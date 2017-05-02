@@ -1,0 +1,89 @@
+.number0 {
+	background-color: rgba(238,228,218,0.35);
+    width: blockSize;
+    height: blockSize;
+    border-radius: 10px;
+    /*box-shadow: inset 5px 5px 5px 5px;*/
+}
+
+.number2 {
+	background-color: #eee4da;
+	font-size: 110px;
+}
+
+.number4 {
+	background-color: #ede0c8;
+	font-size: 110px;
+}
+
+.number8 {
+	background-color: #f2b179;
+	font-size: 110px;
+}
+
+.number16 {
+	background-color: #f59563;
+	font-size: 110px;
+}
+
+.number32 {
+	background-color: #f67c5f;
+	font-size: 110px;
+}
+
+.number64 {
+	background-color: #f65e3b;
+	font-size: 110px;
+}
+
+.number128 {
+	background-color: #edcf72;
+	font-size: 70px;
+	vertical-align: center;
+}
+
+.number256 {
+	background-color: #edcc61;
+	font-size: 70px;
+	vertical-align: center;
+}
+
+.number512 {
+	background-color: #edc850;
+	font-size: 70px;
+	vertical-align: center;
+}
+.number1024 {
+	background-color: #edc53f;
+	font-size: 50px;
+	vertical-align: center;
+}
+.number2048 {
+	background-color: #edc22e;
+	font-size: 50px;
+	vertical-align: center;
+}
+.number4096 {
+	background-color: black;
+	color: white
+	font-size: 50px;
+	vertical-align: center;
+}
+.number8192 {
+	background-color: black;
+	font-size: 50px;
+	vertical-align: center;
+}
+.number16384 {
+	background-color: black;
+}
+.number32768 {
+	background-color: black;
+}
+
+
+.square-container {
+	margin-top: auto;
+	vertical-align: middle;
+	text-align: center;
+}
